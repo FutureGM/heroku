@@ -1,1 +1,1 @@
-worker: python ChatterBot.py
+worker: python Weather_Tweets.py
